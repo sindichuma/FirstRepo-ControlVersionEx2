@@ -1,1 +1,23 @@
-new branch, trying something new
+Hello, this is my second example. Always load a file containing something else it does not commit.
+
+This is my first addition to the file,
+Oops, I am going to delete thi 
+
+This is a new message written on the 26th. Just checking if source tree is still keeping track.
+Cool , it worked.
+
+Let's see if I can remember how to commit
+
+______________________
+Writing lots of data and comitting later
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+SSSSSSSSSSSSSSSSSSSSSSSSSSSssss
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+AAAAAAAAAAAAAAAAAAAAAAAAAaaaAAAA
